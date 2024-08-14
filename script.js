@@ -6,20 +6,20 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "O que o personagem folclórico curupira fazia na selva brasileira ?",
         alternativas: [
             {
-                texto: "Alternativa 1 da pergunta 1",
+                texto: "Buscava por pessoas perdidas e desamparadas para servir de refeição ",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Você não entende de folclore brasileiro, busque estudar mais",
+                    "Você não entende de folclore brasileiro, busque estudar mais"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 1",
+                texto: "Protegia a selva de invasores e buscava por paz no meio ambiente",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "Você aparenta saber bastante de folclore basileiro, continue assim",
+                    "Você aparenta saber bastante de folclore basileiro, continue assim"
                     ]
             }           
             
