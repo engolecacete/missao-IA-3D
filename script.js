@@ -12,14 +12,14 @@ const perguntas = [
                 texto: "Buscava por pessoas perdidas e desamparadas para servir de refeição ",
                 afirmacao: [
                     "Você não entende de folclore brasileiro, busque estudar mais",
-                    "Você não entende de folclore brasileiro, busque estudar mais"
+                    "afirmacao 2"
                     ]
             },
             {
                 texto: "Protegia a selva de invasores e buscava por paz no meio ambiente",
                 afirmacao: [
                     "Você aparenta saber bastante de folclore basileiro, continue assim",
-                    "Você aparenta saber bastante de folclore basileiro, continue assim"
+                    "afirmacao 2"
                     ]
             }           
             
